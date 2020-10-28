@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Project Image
-![](image.jpeg)
+![](image.png)
 
 ## Available Scripts
 
