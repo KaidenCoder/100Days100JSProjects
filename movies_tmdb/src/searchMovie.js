@@ -11,7 +11,7 @@ const SearchMovie = () => {
         console.log('Submitting')
 
         // const query = "Jurassic Park"
-        const apiKey = ''
+        const apiKey = '595658ad363d305dfdd75b6826f7a0d9'
 
         const url = `https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&language=en-US&query=${query}&page=1&include_adult=false`
 
